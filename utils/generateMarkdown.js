@@ -46,23 +46,23 @@ function generateMarkdown(data) {
   ${data.projectDescription}
 
   ## Tables of Contents
-    * [Installation](https://github/${data.github}/${data.projectName.split(" ").join("-").toLowerCase()}#installation)
-    * [Usage](https://github/${data.github}/${data.projectName.split(" ").join("-").toLowerCase()}#usage)
-    * [License](https://github/${data.github}/${data.projectName.split(" ").join("-").toLowerCase()}#license)
-    * [Tests](https://github/${data.github}/${data.projectName.split(" ").join("-").toLowerCase()}#tests)
-    *[Questions](https://github/${data.github}/${data.projectName.split(" ").join("-").toLowerCase()}#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
   ## Installation 
-    ${data.install}
+  ${data.install}
 
   ## Usage
-    ${data.usage}
+  ${data.usage}
   
   ## Contributing
-    ${data.contribute}
+  ${data.contribute}
 
   ## Tests
-    ${data.test}
+  ${data.test}
   ## Questions
   For any questions please reach out to 
   github: [${data.github}](https://github.com/${data.github})
