@@ -13,7 +13,7 @@ const questions = [
             if(emailtInput){
                 return true;
             } else {
-                console.log('Please enter the name of your project!');
+                console.log('Please enter your email!');
                 return false;
             }
         }
@@ -21,12 +21,12 @@ const questions = [
     {
         type: 'input',
         name: 'github',
-        message: 'Please enter your github profile link',
+        message: 'Please enter your github username',
         validate: githubInput => {
             if(githubInput){
                 return true;
             } else {
-                console.log('Please enter the name of your project!');
+                console.log('Please enter your github username!');
                 return false;
             }
         }
@@ -65,7 +65,7 @@ const questions = [
              if(installInput){
                 return true;
               } else {
-                   console.log('Please enter the name of your project!');
+                   console.log('Please enter instructions to install your project!');
                 return false;
             }
         }
@@ -78,7 +78,7 @@ const questions = [
              if(installInput){
                 return true;
               } else {
-                   console.log('Please enter the name of your project!');
+                   console.log('Please enter how your project can be used!');
                 return false;
             }
         }
