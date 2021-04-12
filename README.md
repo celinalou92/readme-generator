@@ -18,7 +18,7 @@ Use this app locally to generate a professional README.md file for your project
 
 ### Demo Video Link
 * https://vimeo.com/536033472
-** [link to repository used for demo](https://github.com/celinalou92/git-it-done)
+* [link to repository used for demo](https://github.com/celinalou92/git-it-done)
 
 ## Contributing
 Please reference the contributor covenant latest version of the code of conduct [Here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
