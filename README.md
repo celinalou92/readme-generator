@@ -1,8 +1,7 @@
 # Professional README Generator 
 
-[How to create a Professional README](./readme-guide.md)
 ## Description 
-  An app that will take in user input and generate markdown and a README.md file for use in the user's github repository
+An app that will take in user input and generate markdown and a README.md file for use in the user's github repository
 
 ## Tables of Contents
 * [Installation](#installation)
@@ -15,21 +14,23 @@
 * https://www.npmjs.com/package/inquirer
 
 ## Usage
-    Provide instructions and examples for use. Include screenshots as needed.
+Use this app locally to generate a professional README.md file for your project 
 
-    To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+### Demo Video Link
+* https://vimeo.com/536033472
+** [link to repository used for demo](https://github.com/celinalou92/git-it-done)
 
 ## Contributing
+Please reference the contributor covenant latest version of the code of conduct [Here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 ## Tests
+There are no special instructions for testing this app.
 
 ## Questions
-  For any questions please reach out to ${data.githubLink}
-  
-  
-## Project Image 
-![Project Image](${data.imageurl})
+For any questions please reach out to 
+github: [celinalou92](https://github.com/celinalou92)
+email: celinalouissaint@gmail.com
+
 
 ## License
+none
